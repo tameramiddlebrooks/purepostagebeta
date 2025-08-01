@@ -4,7 +4,6 @@ function Founder() {
     return (
         <>
             <div className="founder">
-                <h1 classname="meetMe"></h1>
                 <img src={headshot} alt="Founder headshot" className="headshot" />
 
             </div>
