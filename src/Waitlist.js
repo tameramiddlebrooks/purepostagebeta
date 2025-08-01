@@ -1,8 +1,3 @@
-import React, { useState } from 'react';
-
-const formEndpoint = "https://formspree.io/f/xwpqneop";
-
-
 function Waitlist() {
   const [formData, setFormData] = useState({
     firstname: '',
