@@ -1,3 +1,5 @@
+import { useState } from 'react';
+
 function Waitlist() {
   const [formData, setFormData] = useState({
     firstname: '',
