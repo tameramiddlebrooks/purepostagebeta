@@ -5,12 +5,8 @@ import Waitlist from './Waitlist'
 import Beta from './Beta'
 import Home from './Home'
 import Founder from './Founder'
-import {
-  BrowserRouter as Router,
-} from "react-router-dom";
 import logo from './transparentLogo2.png'
-import { useEffect } from 'react';
-import { useLocation } from 'react-router-dom';
+
 
 
 function App() {
